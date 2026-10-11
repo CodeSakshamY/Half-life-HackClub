@@ -44,3 +44,6 @@ schematic, component placement and routing are done in easyeda.
 
 
 designing is done. next step is getting the board manufactured, recieving it , adding the code and testing it and seeing if everything works!!
+
+
+The entire pcb was designed in easyeda but duet to the repo submision checks error i have added the .kicad_pcb file but please refer to only the files in the folder named psycon-wearable.
